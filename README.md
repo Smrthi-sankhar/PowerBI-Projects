@@ -27,7 +27,7 @@ The supermarket industry faces challenges in accurately predicting sales and opt
 - Publish the dashboard for stakeholders to access and utilize.
   or each segment.
 
-  CLICK THE ABOVE FILE FOR DASHBOARD
+  
 
 
 
